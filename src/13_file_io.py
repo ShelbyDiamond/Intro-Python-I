@@ -21,5 +21,5 @@ print(foo.read())
 
 # YOUR CODE HERE
 bar = open(f"{path}/bar.txt", "w")
-bar.write("This is my content\nThis is another line of content\nThis is my final content marker")
+bar.write("This is Bentley\nBentley is my sweet little puppy\nI love Bentley")
 bar.close()
