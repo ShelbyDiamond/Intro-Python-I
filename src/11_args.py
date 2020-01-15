@@ -20,6 +20,7 @@ def f2(*argv):
         sum += arg
     return sum
 
+
 print(f2(1))                    # Should print 1
 print(f2(1, 3))                 # Should print 4
 print(f2(1, 4, -12))            # Should print -7
